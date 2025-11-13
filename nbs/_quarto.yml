@@ -14,9 +14,20 @@ website:
   open-graph: true
   repo-actions: [issue]
   navbar:
+    title: AlienTech
+    pinned: true
+    logo: https://imgur.com/tENUUcn
     background: primary
     search: true
   sidebar:
     style: floating
-
+    right:
+      - icon: github
+        href: https://github.com/Tomiarry/AlienTech.github.io
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2025, Tomiarry" 
+    right: 
+      - icon: github
+        href: https://github.com/Tomiarry/AlienTech.github.io
 metadata-files: [nbdev.yml, sidebar.yml]
