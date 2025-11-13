@@ -22,14 +22,10 @@ website:
     right:
       - icon: github
         href: https://github.com/Tomiarry/AlienTech.github.io
-  sidebar:
-    style: floating
-    right:
-      - icon: github
-        href: https://github.com/Tomiarry/AlienTech.github.io
   back-to-top-navigation: true
   page-footer: 
     left: "Copyright 2025, Tomiarry" 
     right: 
       - icon: github
         href: https://github.com/Tomiarry/AlienTech.github.io
+metadata-files: [nbdev.yml, sidebar.yml]
