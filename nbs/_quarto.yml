@@ -12,7 +12,7 @@ website:
   navbar:
     title: AlienTech
     pinned: true
-    logo: https://imgur.com/tENUUcn
+    logo: logo.png
     logo-herf: https://github.com/Tomiarry/Alien.github.io
     background: primary
     search: true
