@@ -11,17 +11,18 @@ website:
   open-graph: true
   repo-actions: [issue]
   navbar:
+    title: "AlienTech"
     pinned: true
     logo: logo.png
     background: primary
     search: true
     right:
       - icon: github
-        href: https://github.com/Tomiarry/AlienTech.github.io
+        href: https://github.com/Tomiarry/Alien.github.io
   back-to-top-navigation: true
   page-footer: 
     left: "Copyright 2025, Tomiarry" 
     right: 
       - icon: github
-        href: https://github.com/Tomiarry/AlienTech.github.io
+        href: https://github.com/Tomiarry/Alien.github.io
 metadata-files: [nbdev.yml]
