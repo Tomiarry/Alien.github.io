@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Alien.github.io"
+  site-url: "https://Tomiarry.github.io/Alien.github.io"
+  description: "AlienTech"
+  repo-branch: main
+  repo-url: "https://github.com/Tomiarry/Alien.github.io"
