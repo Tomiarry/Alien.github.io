@@ -11,7 +11,6 @@ website:
   open-graph: true
   repo-actions: [issue]
   navbar:
-    title: AlienTech
     pinned: true
     logo: logo.png
     logo-herf: https://github.com/Tomiarry/Alien.github.io
