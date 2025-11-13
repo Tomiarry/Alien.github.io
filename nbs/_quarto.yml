@@ -6,14 +6,13 @@ format:
     theme: zephyr
 
 website:
-  title: AlienTech
+  title: "AlienTech"
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
   navbar:
     pinned: true
     logo: logo.png
-    logo-herf: https://github.com/Tomiarry/Alien.github.io
     background: primary
     search: true
     right:
