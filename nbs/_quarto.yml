@@ -13,6 +13,7 @@ website:
     title: AlienTech
     pinned: true
     logo: https://imgur.com/tENUUcn
+    logo-herf: https://github.com/Tomiarry/Alien.github.io
     background: primary
     search: true
     right:
