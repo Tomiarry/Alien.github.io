@@ -19,6 +19,9 @@ website:
     logo: https://imgur.com/tENUUcn
     background: primary
     search: true
+    right:
+      - icon: github
+        href: https://github.com/Tomiarry/AlienTech.github.io
   sidebar:
     style: floating
     right:
@@ -30,4 +33,3 @@ website:
     right: 
       - icon: github
         href: https://github.com/Tomiarry/AlienTech.github.io
-metadata-files: [nbdev.yml, sidebar.yml]
